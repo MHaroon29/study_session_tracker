@@ -2,3 +2,5 @@
 topics = []
 durations = []
 dates = []
+locations = []
+notes = []
